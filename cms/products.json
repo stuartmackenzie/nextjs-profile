@@ -1,0 +1,44 @@
+[
+  {
+    "sku": "10G-P5-3888-KL",
+    "image": "/images/products/10G-P5-3888-KL_MD_1.png",
+    "title": "EVGA GeForce RTX 3080 XC3 ULTRA HYBRID GAMING, 10G-P5-3888-KL, 10GB GDDR6X, ARGB LED, Metal Backplate, LHR",
+    "text": "NVIDIA RTX 3080\n8704 CUDA Cores\n1755 MHz Boost Clock\n477.4GT/s Texture Fill Rate",
+    "price": 909.99
+  },
+  {
+    "sku": "10G-P5-3889-KR",
+    "image": "/images/products/10G-P5-3889-KR_MD_1.png",
+    "title": "EVGA GeForce RTX 3080 XC3 ULTRA HYDRO COPPER GAMING, 10G-P5-3889-KR, 10GB GDDR6X, ARGB LED, Metal Backplate",
+    "text": "NVIDIA RTX 3080\n8704 CUDA Cores\n1755 MHz Boost Clock\n477.4GT/s Texture Fill Rate",
+    "price": 919.99
+  },
+  {
+    "sku": "10G-P5-3898-KL",
+    "image": "/images/products/10G-P5-3898-KL_MD_1.png",
+    "title": "EVGA GeForce RTX 3080 FTW3 ULTRA HYBRID GAMING, 10G-P5-3898-KL, 10GB GDDR6X, ARGB LED, Metal Backplate, LHR",
+    "text": "NVIDIA RTX 3080\n8704 CUDA Cores\n1800 MHz Boost Clock\n489.6GT/s Texture Fill Rate",
+    "price": 939.99
+  },
+  {
+    "sku": "10G-P5-3899-KR",
+    "image": "/images/products/10G-P5-3899-KR_MD_1.png",
+    "title": "EVGA GeForce RTX 3080 FTW3 ULTRA HYDRO COPPER GAMING, 10G-P5-3899-KR, 10GB GDDR6X, ARGB LED, Metal Backplate",
+    "text": "NVIDIA RTX 3080\n8704 CUDA Cores\n1800 MHz Boost Clock\n489.6GT/s Texture Fill Rate",
+    "price": 949.99
+  },
+  {
+    "sku": "10G-P5-3895-KR",
+    "image": "/images/products/10G-P5-3895-KR_MD_1.png",
+    "title": "EVGA GeForce RTX 3080 FTW3 GAMING, 10G-P5-3895-KR, 10GB GDDR6X, iCX3 Technology, ARGB LED, Metal Backplate",
+    "text": "NVIDIA RTX 3080\n8704 CUDA Cores\n1755 MHz Boost Clock\n477.4GT/s Texture Fill Rate",
+    "price": 879.99
+  },
+  {
+    "sku": "10G-P5-3897-KL",
+    "image": "/images/products/10G-P5-3897-KL_MD_1.png",
+    "title": "EVGA GeForce RTX 3080 FTW3 ULTRA GAMING, 10G-P5-3897-KL, 10GB GDDR6X, iCX3 Technology, ARGB LED, Metal Backplate, LHR",
+    "text": "NVIDIA RTX 3080\n8704 CUDA Cores\n1800 MHz Boost Clock\n489.6GT/s Texture Fill Rate",
+    "price": 919.99
+  }
+]
